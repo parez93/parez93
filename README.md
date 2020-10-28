@@ -1,7 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo2665
-Fork on GitHub442
 <h1 align="center">Hi there 👋, I'm Federico Parezzan</h1>
 <h3 align="center">I am a italian software developer</h3>
 
