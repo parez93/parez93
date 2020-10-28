@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Federico Parezzan ![Profile views](https://komarev.com/ghpvc/?username=parez93&label=Profile%20views&color=0e75b6&style=flat)
-#### I am a italian software developer
+#### I am a italian software developer :it:
 ![I am a italian software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
