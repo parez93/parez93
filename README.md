@@ -1,7 +1,8 @@
-<h1 align="center">Hi there 👋, I'm Federico Parezzan</h1>
-<h3 align="center">I am a italian software developer</h3>
+### Hi there 👋, I'm Federico Parezzan ![Profile views](https://komarev.com/ghpvc/?username=parez93&label=Profile%20views&color=0e75b6&style=flat)
+#### I am a italian software developer
+![I am a italian software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=parez93&label=Profile%20views&color=0e75b6&style=flat" alt="parez93" /> </p>
+
 
 - 🔭 I’m currently working on **many projects full remote**
 
@@ -23,28 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parez93&show_icons=true&locale=en&layout=compact" alt="parez93" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parez93&show_icons=true&locale=en" alt="parez93" /></p>
-
-Support 🙏
-Are you using the tool and happy with it to create your GitHub Profile?
-Your kind support keeps open-source tools like this free for others.
-tweet github profile readme generator
-Let the world know how you feel using this tool. Share with others on twitter.
-Tip💰
-Buy ko-fi for rahuldkjainBuy me a ko-fi
-Donate rahuldkjain via paypalPaypal
-Buy rahuldkjain A CoffeeBuy me a coffee
-github profile markdown generator logo
-GitHub Profile README Generator
-Pages
-Addons
-Support
-About
-More
-Github
-Releases
-Issues
-Pull Requests
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
