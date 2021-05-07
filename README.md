@@ -1,26 +1,66 @@
-### Hi there 👋, I'm Federico Parezzan ![Profile views](https://komarev.com/ghpvc/?username=parez93&label=Profile%20views&color=0e75b6&style=flat)
-#### I am a italian software developer :it:
-![I am a italian software developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there, I'm [Federico][website] 👋 💻
+
+[![Linkedin Follow](https://img.shields.io/badge/follow%20@federicoparezzan-LinkedIn-0077B5?color=1DA1F2&logoColor=1DA1F2&logo=linkedin&style=for-the-badge)](https://it.linkedin.com/in/federico-parezzan)
+
+## I'm a Software Engineer and a Speaker! :it:
+
+I have been working with Java and its ecosystem since university time.
+Currently I'm working as software engineer and I'm involved in designing and developing web and mobile applications. 
+I have a strong passion for technology and I love learn, so I continue to improve myself.
+I'm co-founder and Community Leader of [Sviluppatori Flutter](https://thecmmbay.com/community/sviluppatori-flutter), 
+an Italian User Group. I'm also speaker at technical events and I was a [Microsoft Student Partner (MSP)](https://studentambassadors.microsoft.com/).
+
+### Connect with me:
+
+[<img align="left" alt="About Me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<br />
+
+### Languages and Tools:
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="26px" height="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="26px" height="26px"/> 
+<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="26px" height="26px"/> 
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="26px" height="26px"/>
+<img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="26px" height="26px"/>
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+
+<br />
+<br />
 
 
 
-- 🔭 I’m currently working on **many projects full remote**
 
-- 🌱 I’m currently learning **React**
+---
 
-- 💬 Ask me about **Java, Flutter, Spring**
+### 📺 Latest YouTube Videos
 
-- 📫 How to reach me **federico.parezzan AT outlook.it**
+<!-- YOUTUBE:START -->
+- [Dev Community Night ‘21 #4・Come sviluppare in Flutter: Be a Talent Flutter!](https://www.youtube.com/watch?v=Ja_nuGK7lNY&ab_channel=TheCommunitiesBay)
+- [Localization mobile in Flutter - un'alternativa a Google](https://www.youtube.com/watch?v=MMY2NgsNybc&list=PLETjmf1o3DlJTmvAFaGx456Wx83bkC5VC&index=14&ab_channel=TheCommunitiesBay)
+- [Let's go Flutter - 3. Gotta catch' em all Widgets](https://www.youtube.com/watch?v=sHV7lPyRjZY&list=PLETjmf1o3DlJ3JaXEJLaOeQ_CUFp9cyGh&index=2&ab_channel=TheCommunitiesBay)
+- [Migrating to the Java Date Time API version 8](https://www.youtube.com/watch?v=UWIey2RCSWg&ab_channel=TheCommunitiesBay)
+<!-- YOUTUBE:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/federico-parezzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="federico-parezzan" height="30" width="40" /></a>
-<a href="https://fb.com/federico.parezzan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="federico.parezzan" height="30" width="40" /></a>
-</p>
+➡️ [more videos...][youtube]
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/mathworks.svg" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parez93&show_icons=true&locale=en&layout=compact" alt="parez93" /></p>
+---
+<details>
+  <summary>:zap: Most used languages</summary>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parez93&show_icons=true&locale=en&layout=compact" alt="Federico Parezzan's must used languages" />
+</details>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parez93&show_icons=true&locale=en" alt="parez93" /></p>
+
+<details>
+  <summary>:zap: GitHub Stats</summary>
+
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=parez93&show_icons=true&locale=en" alt="Federico Parezzan's GitHub Stats" /></p>
+
+</details>
+
+[website]: https://parezzan.com
+[youtube]: https://www.youtube.com/playlist?list=PLETjmf1o3DlJ3JaXEJLaOeQ_CUFp9cyGh
+[linkedin]: https://it.linkedin.com/in/federico-parezzan
